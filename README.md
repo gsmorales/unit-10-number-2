@@ -34,7 +34,7 @@ $(document).ready(function(){
 </ol>
   
 
-<button id="btn1">Append text </button>
+<button id="btn1">Append text </button> 
 <button id="btn2">Append list items </button>
 
 </body>
